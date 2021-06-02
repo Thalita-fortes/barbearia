@@ -15,21 +15,28 @@ TELA DE MENU <br/>
 TELA DE CADASTRO (INCLUIR, EXCLUIR, CONSULTAR E ALTERAR)<br/>
 DOIS RELATÓRIOS DIFERENTES<br/>
 TELA SOBRE CONTENDO à NOME DO SISTEMA E COMPONENTES DO GRUPO<br/>
+<br/>
+<br/>
 
 <p align="center">
+	TELA DE LOGIN<br/>
 <img src="https://github.com/Thalita-fortes/barbearia/blob/main/imagens_projeto/login.png" width="350"><br/>
 	<br/>
-<img src="https://github.com/Thalita-fortes/barbearia/blob/main/imagens_projeto/menu.png" width="350"><br/>
 	<br/>
-<img src="https://github.com/Thalita-fortes/barbearia/blob/main/imagens_projeto/funcionarios.png" width="350"> <br/>
+	TELA DE MENU & TELA SOBRE<br/>
+<img src="https://github.com/Thalita-fortes/barbearia/blob/main/imagens_projeto/menu.png" width="350" height="325">
+<img src="https://github.com/Thalita-fortes/barbearia/blob/main/imagens_projeto/tela%20sobre.png" width="350">
 	<br/>
+	<br/>
+	CADASTRO DE FUNCIONARIOS & CADASTRO DE CLIENTES<br/>
+<img src="https://github.com/Thalita-fortes/barbearia/blob/main/imagens_projeto/funcionarios.png" width="350">
 <img src="https://github.com/Thalita-fortes/barbearia/blob/main/imagens_projeto/clientes.png" width="350"> <br/>
 	<br/>
-<img src="https://github.com/Thalita-fortes/barbearia/blob/main/imagens_projeto/img" width="350"><br/>
 	<br/>
+	CADASTRO DE OS<br/>
 <img src="https://github.com/Thalita-fortes/barbearia/blob/main/imagens_projeto/os.png" width="350"><br/>
 	<br/>
-	<img src="https://github.com/Thalita-fortes/barbearia/blob/main/imagens_projeto/tela%20sobre.png" width="350">
+
 	
 
 </p>
