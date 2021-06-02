@@ -9,10 +9,10 @@ O sistema foi feito para um trabalho proposto pela faculdade, na aula de POO em 
 Nessa sistema usei a linguagem Java, o banco de dados MySQL, usei conectores MySQL, e o JasperSoft, para impressão de relatorios.
 
 
-TELA DE LOGIN
-TELA DE MENU 
-TELA DE CADASTRO (INCLUIR, EXCLUIR, CONSULTAR E ALTERAR)
-DOIS RELATÓRIOS DIFERENTES
-TELA SOBRE CONTENDO à NOME DO SISTEMA E COMPONENTES DO GRUPO
+TELA DE LOGIN .
+TELA DE MENU .
+TELA DE CADASTRO (INCLUIR, EXCLUIR, CONSULTAR E ALTERAR).
+DOIS RELATÓRIOS DIFERENTES.
+TELA SOBRE CONTENDO à NOME DO SISTEMA E COMPONENTES DO GRUPO.
 	
 
