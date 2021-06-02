@@ -1,8 +1,9 @@
 # barbearia
-Projeto em Java e MySQL <br/>
+## Projeto em Java e MySQL
 
-Sistema de uma Barbearia, <br/>
-ao qual faz cadastro de clientes, cadastros de funcionarios, cadastros de OS, <br/>
+### Sistema de uma Barbearia. 
+
+O sistema qual faz cadastro de clientes, cadastros de funcionarios, cadastros de OS, <br/>
 o sistema possue um CRUD, tela de login, tela de cadastro, tela sobre, o sistema imprime 2 relatorios.<br/>
 
 O sistema foi feito para um trabalho proposto pela faculdade, na aula de POO em java.<br/>
@@ -14,5 +15,24 @@ TELA DE MENU <br/>
 TELA DE CADASTRO (INCLUIR, EXCLUIR, CONSULTAR E ALTERAR)<br/>
 DOIS RELATÓRIOS DIFERENTES<br/>
 TELA SOBRE CONTENDO à NOME DO SISTEMA E COMPONENTES DO GRUPO<br/>
+
+<p align="center">
+<img src="https://github.com/Thalita-fortes/barbearia/blob/main/imagens_projeto/login.png" width="350"><br/>
+	<br/>
+<img src="https://github.com/Thalita-fortes/barbearia/blob/main/imagens_projeto/menu.png" width="350"><br/>
+	<br/>
+<img src="https://github.com/Thalita-fortes/barbearia/blob/main/imagens_projeto/funcionarios.png" width="350"> <br/>
+	<br/>
+<img src="https://github.com/Thalita-fortes/barbearia/blob/main/imagens_projeto/clientes.png" width="350"> <br/>
+	<br/>
+<img src="https://github.com/Thalita-fortes/barbearia/blob/main/imagens_projeto/img" width="350"><br/>
+	<br/>
+<img src="https://github.com/Thalita-fortes/barbearia/blob/main/imagens_projeto/os.png" width="350"><br/>
+	<br/>
+	<img src="https://github.com/Thalita-fortes/barbearia/blob/main/imagens_projeto/tela%20sobre.png" width="350">
 	
+
+</p>
+
+
 
