@@ -33,7 +33,7 @@ TELA SOBRE CONTENDO à NOME DO SISTEMA E COMPONENTES DO GRUPO<br/>
 <img src="https://github.com/Thalita-fortes/barbearia/blob/main/imagens_projeto/clientes.png" width="350"> <br/>
 	<br/>
 	<br/>
-	CADASTRO DE OS<br/>
+		CADASTRO DE OS<br/>
 <img src="https://github.com/Thalita-fortes/barbearia/blob/main/imagens_projeto/os.png" width="350"><br/>
 	<br/>
 
